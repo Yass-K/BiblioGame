@@ -1,3 +1,7 @@
+# BiblioGame 
+
+An angular project of a video games library linked to the rawg video games api 
+
 # ProjectVideoGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
